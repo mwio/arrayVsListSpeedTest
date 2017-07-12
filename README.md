@@ -1,2 +1,2 @@
 # arrayVsListSpeedTest
-Array vs List speed Test
+Array vs LinkedList speed Test
